@@ -49,3 +49,15 @@ Basado en el análisis de ROMI, se proponen las siguientes acciones para optimiz
 
 ### Conclusión Final
 Showz debe reenfocar su estrategia de "adquisición barata" (CAC bajo) a "adquisición rentable" (ROMI alto). La clave es invertir en las fuentes que demuestren un retorno sobre la inversión superior a 1.0.
+
+---
+## 📂 Cómo Ejecutar este Proyecto
+
+El análisis completo, desde la carga de datos hasta el cálculo del ROMI, se encuentra en el Jupyter Notebook principal.
+
+1.  Clona este repositorio:
+    ```bash
+    git clone [https://github.com/VictorVM-03/Showz-Marketing-Analysis.git](https://github.com/VictorVM-03/Showz-Marketing-Analysis.git)
+    ```
+2.  Navega a la carpeta del proyecto.
+3.  Abre el archivo `.ipynb` (ej. `Proyecto_Showz.ipynb`) usando Jupyter Notebook o Jupyter Lab.
